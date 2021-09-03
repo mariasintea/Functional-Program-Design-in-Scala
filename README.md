@@ -2,8 +2,12 @@
 
 ### Utils
 - Style Guide: [notes]()
-- Cheat Sheet: [link]() [notes]()
-- Scala Standard Library(2.13.6): [link](https://www.scala-lang.org/api/current/)
+- Cheat Sheet: [link](https://docs.scala-lang.org/cheatsheets/) [notes]()
+- Scala Check: [user-guide](https://github.com/typelevel/scalacheck/blob/main/doc/UserGuide.md) [api](https://www.scalacheck.org/files/scalacheck_2.11-1.12.2-api/index.html#package)
+- Scala Standard Library(2.13.6): [api](https://www.scala-lang.org/api/current/)
+- Reactive Cheat Sheet: [link](https://github.com/sjuvekar/reactive-programming-scala/blob/master/ReactiveCheatSheet.md) [notes]()
+- RxScala: [api](http://reactivex.io/rxscala/scaladoc/index.html#package)
+- Akka: [documentation](https://doc.akka.io/docs/akka/2.4/scala.html) [api](https://doc.akka.io/api/akka/2.4/)
 
 
 ### Week 1 - For Expressions and Monads
