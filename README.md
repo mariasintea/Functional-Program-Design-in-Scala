@@ -1,11 +1,11 @@
 ## Functional-Program-Design-in-Scala
 
 ### Utils
-- Style Guide: [notes]()
-- Cheat Sheet: [link](https://docs.scala-lang.org/cheatsheets/) [notes]()
+- Style Guide: [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/utils/Style-Guide.pdf)
+- Cheat Sheet: [link](https://docs.scala-lang.org/cheatsheets/) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/utils/Cheat-Sheet.pdf)
 - Scala Check: [user-guide](https://github.com/typelevel/scalacheck/blob/main/doc/UserGuide.md) [api](https://www.scalacheck.org/files/scalacheck_2.11-1.12.2-api/index.html#package)
 - Scala Standard Library(2.13.6): [api](https://www.scala-lang.org/api/current/)
-- Reactive Cheat Sheet: [link](https://github.com/sjuvekar/reactive-programming-scala/blob/master/ReactiveCheatSheet.md) [notes]()
+- Reactive Cheat Sheet: [link](https://github.com/sjuvekar/reactive-programming-scala/blob/master/ReactiveCheatSheet.md) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/utils/Reactive-Cheat-Sheet.pdf)
 - RxScala: [api](http://reactivex.io/rxscala/scaladoc/index.html#package)
 - Akka: [documentation](https://doc.akka.io/docs/akka/2.4/scala.html) [api](https://doc.akka.io/api/akka/2.4/)
 
