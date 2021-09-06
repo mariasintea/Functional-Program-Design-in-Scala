@@ -11,8 +11,8 @@
 
 
 ### Week 1 - For Expressions and Monads
-- Recap - Functions and Pattern Matching: [slides]() [notes]()
-- Recap - Collections: [slides]() [notes]()
+- Recap - Functions and Pattern Matching: [slides]() 
+- Recap - Collections: [slides]() 
 - Lecture 1.1 - Queries with For: [slides]() [notes]()
 - Lecture 1.2 - Translation of For: [slides]() [notes]()
 - Lecture 1.3 - Functional Random Generators: [slides]() [notes]()
