@@ -13,8 +13,8 @@
 ### Week 1 - For Expressions and Monads
 - Recap - Functions and Pattern Matching: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-1/Recap-Functions-and-Pattern-Matching.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-1/Recap-Functions-and-Pattern-Matching-Notes.pdf)
 - Recap - Collections: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-1/Recap-Collections.pdf) 
-- Lecture 1.1 - Queries with For: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-1/Lecture1.2-Translation-of-For.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-1/Lecture1.2-Translation-of-For-Notes.pdf)
-- Lecture 1.2 - Translation of For: [slides]() [notes]()
+- Lecture 1.1 - Queries with For: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-1/Lecture1.1-Queries-with-For.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-1/Lecture1.1-Queries-with-For-Notes.pdf)
+- Lecture 1.2 - Translation of For: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-1/Lecture1.2-Translation-of-For.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-1/Lecture1.2-Translation-of-For-Notes.pdf)
 - Lecture 1.3 - Functional Random Generators: [slides]() [notes]()
 - Lecture 1.4 - Monads: [slides]() [notes]()
 - Programming Assignment - Quickcheck: [code]()
