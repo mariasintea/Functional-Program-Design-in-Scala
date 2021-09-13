@@ -16,7 +16,7 @@
 - Lecture 1.1 - Queries with For: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-1/Lecture1.1-Queries-with-For.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-1/Lecture1.1-Queries-with-For-Notes.pdf)
 - Lecture 1.2 - Translation of For: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-1/Lecture1.2-Translation-of-For.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-1/Lecture1.2-Translation-of-For-Notes.pdf)
 - Lecture 1.3 - Functional Random Generators: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/tree/main/week-1/Lecture1.3-Functional-Random-Generators.pdf) [code](https://github.com/mariasintea/Functional-Program-Design-in-Scala/tree/main/week-1/RandomGenerators/src)
-- Lecture 1.4 - Monads: [slides]() [notes]()
+- Lecture 1.4 - Monads: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/tree/main/week-1/Lecture1.4-Monads.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/tree/main/week-1/Lecture1.4-Monads-Notes.pdf)
 - Programming Assignment - Quickcheck: [code]()
 
 ### Week 2 - Lazy Evaluation
