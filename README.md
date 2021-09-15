@@ -20,8 +20,8 @@
 - Programming Assignment - Quickcheck: [code](https://github.com/mariasintea/Functional-Program-Design-in-Scala/tree/main/week-1/Quickcheck/quickcheck/src)
 
 ### Week 2 - Lazy Evaluation
-- Lecture 2.1 - Structural Induction on Trees: [slides]() [notes]()
-- Lecture 2.2 - Streams: [slides]() [notes]()
+- Lecture 2.1 - Structural Induction on Trees: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-2/Lecture2.1-Structural-Induction-on-Trees.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-2/Lecture2.1-Structural-Induction-on-Trees-Notes.pdf)
+- Lecture 2.2 - Streams: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-2/Lecture2.2-Streams.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-2/Lecture2.2-Streams-Notes.pdf)
 - Lecture 2.3 - Lazy Evaluation: [slides]() [notes]()
 - Lecture 2.4 - Computing with Infinite Sequences: [slides]() [notes]()
 - Lecture 2.5 - Case Study: the Water Pouring Problem: [slides]() [notes]()
