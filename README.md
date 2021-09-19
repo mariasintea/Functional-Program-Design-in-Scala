@@ -22,19 +22,19 @@
 ### Week 2 - Lazy Evaluation
 - Lecture 2.1 - Structural Induction on Trees: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-2/Lecture2.1-Structural-Induction-on-Trees.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-2/Lecture2.1-Structural-Induction-on-Trees-Notes.pdf)
 - Lecture 2.2 - Streams: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-2/Lecture2.2-Streams.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-2/Lecture2.2-Streams-Notes.pdf)
-- Lecture 2.3 - Lazy Evaluation: [slides]() [notes]()
-- Lecture 2.4 - Computing with Infinite Sequences: [slides]() [notes]()
+- Lecture 2.3 - Lazy Evaluation: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-2/Lecture2.3-Lazy-Evaluation.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-2/Lecture2.3-Lazy-Evaluation-Notes.pdf)
+- Lecture 2.4 - Computing with Infinite Sequences: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-2/Lecture2.4-Computing-with-Infinite-Sequences.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-2/Lecture2.4-Computing-with-Infinite-Sequences-Notes.pdf)
 - Lecture 2.5 - Case Study: the Water Pouring Problem: [slides]() [notes]()
 - Programming Assignment - Bloxorz: [code]()
 
-## Week 3 - Type-Directed Programming
+### Week 3 - Type-Directed Programming
 - Lecture 3.1 - Type-Directed Programming: [notes]() [quiz]()
 - Lecture 3.2 - Type Classes: [notes]()
 - Lecture 3.3 - Conditional Implicit Definitions: [notes]() [quiz]()
 - Lecture 3.4 - Implicit Conversions: [notes]() [quiz]()
 - Programming Assignment - JSON Codecs: [code]()
 
-## Week 4 - Functions and State
+### Week 4 - Functions and State
 - Lecture 4.1 - Functions and State: [slides]() [notes]()
 - Lecture 4.2 - Identity and Change: [slides]() [notes]()
 - Lecture 4.3 - Loops: [slides]() [notes]()
@@ -42,7 +42,7 @@
 - Lecture 4.5 - Discrete Event Simulation: API and Usage: [slides]() [notes]()
 - Lecture 4.6 - Discrete Event Simulation: Implementation and Test: [slides]() [notes]() [code]()
 
-## Week 5 - Timely Effects
+### Week 5 - Timely Effects
 - Lecture 5.1 - Imperative Event Handling: The Observer Pattern: [slides]() [notes]()
 - Lecture 5.2 - Functional Reactive Programming: [slides]() [notes]()
 - Lecture 5.3 - A Simple FRP Implementation: [slides]() [code]()
