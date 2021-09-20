@@ -24,14 +24,15 @@
 - Lecture 2.2 - Streams: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-2/Lecture2.2-Streams.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-2/Lecture2.2-Streams-Notes.pdf)
 - Lecture 2.3 - Lazy Evaluation: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-2/Lecture2.3-Lazy-Evaluation.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-2/Lecture2.3-Lazy-Evaluation-Notes.pdf)
 - Lecture 2.4 - Computing with Infinite Sequences: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-2/Lecture2.4-Computing-with-Infinite-Sequences.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-2/Lecture2.4-Computing-with-Infinite-Sequences-Notes.pdf)
-- Lecture 2.5 - Case Study: the Water Pouring Problem: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/tree/main/week-2/Lecture2.5-Case-Study.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/tree/main/week-2/TheWaterPouringProblem/src)
-- Programming Assignment - Bloxorz: [code]()
+- Lecture 2.5 - Case Study: the Water Pouring Problem: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/tree/main/week-2/Lecture2.5-Case-Study.pdf) [code](https://github.com/mariasintea/Functional-Program-Design-in-Scala/tree/main/week-2/TheWaterPouringProblem/src)
+- Programming Assignment - Bloxorz: [code](https://github.com/mariasintea/Functional-Program-Design-in-Scala/tree/main/week-2/Bloxorz/streams/src)
 
 ### Week 3 - Type-Directed Programming
-- Lecture 3.1 - Type-Directed Programming: [notes]() [quiz]()
-- Lecture 3.2 - Type Classes: [notes]()
-- Lecture 3.3 - Conditional Implicit Definitions: [notes]() [quiz]()
-- Lecture 3.4 - Implicit Conversions: [notes]() [quiz]()
+- Lecture 3.1 - Motivating Example: [notes]()
+- Lecture 3.2 - Type-Directed Programming: [notes]() [quiz]()
+- Lecture 3.3 - Type Classes: [notes]()
+- Lecture 3.4 - Conditional Implicit Definitions: [notes]() [quiz]()
+- Lecture 3.5 - Implicit Conversions: [notes]() [quiz]()
 - Programming Assignment - JSON Codecs: [code]()
 
 ### Week 4 - Functions and State
