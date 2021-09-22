@@ -8,6 +8,7 @@
 - Reactive Cheat Sheet: [link](https://github.com/sjuvekar/reactive-programming-scala/blob/master/ReactiveCheatSheet.md) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/utils/Reactive-Cheat-Sheet.pdf)
 - RxScala: [api](http://reactivex.io/rxscala/scaladoc/index.html#package)
 - Akka: [documentation](https://doc.akka.io/docs/akka/2.4/scala.html) [api](https://doc.akka.io/api/akka/2.4/)
+- Scala with Cats - Noel Welsh and Dave Gurnell: [book](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/utils/Scala-with-Cats-NoelWelsh-and-DaveGurnell.pdf)
 
 
 ### Week 1 - For Expressions and Monads
@@ -28,9 +29,9 @@
 - Programming Assignment - Bloxorz: [code](https://github.com/mariasintea/Functional-Program-Design-in-Scala/tree/main/week-2/Bloxorz/streams/src)
 
 ### Week 3 - Type-Directed Programming
-- Lecture 3.1 - Motivating Example: [notes]()
-- Lecture 3.2 - Type-Directed Programming: [notes]() [quiz]()
-- Lecture 3.3 - Type Classes: [notes]()
+- Lecture 3.1 - Motivating Example: [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-3/Lecture3.1-Motivating-Example.pdf)
+- Lecture 3.2 - Type-Directed Programming: [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-3/Lecture3.2-Type-Directed-Programming.pdf) [quiz](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-3/Lecture3.2-Type-Directed-Programming-Quiz.pdf)
+- Lecture 3.3 - Type Classes: [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-3/Lecture3.3-Type-Classes.pdf)
 - Lecture 3.4 - Conditional Implicit Definitions: [notes]() [quiz]()
 - Lecture 3.5 - Implicit Conversions: [notes]() [quiz]()
 - Programming Assignment - JSON Codecs: [code]()
