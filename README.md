@@ -32,8 +32,8 @@
 - Lecture 3.1 - Motivating Example: [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-3/Lecture3.1-Motivating-Example.pdf)
 - Lecture 3.2 - Type-Directed Programming: [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-3/Lecture3.2-Type-Directed-Programming.pdf) [quiz](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-3/Lecture3.2-Type-Directed-Programming-Quiz.pdf)
 - Lecture 3.3 - Type Classes: [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-3/Lecture3.3-Type-Classes.pdf)
-- Lecture 3.4 - Conditional Implicit Definitions: [notes]() [quiz]()
-- Lecture 3.5 - Implicit Conversions: [notes]() [quiz]()
+- Lecture 3.4 - Conditional Implicit Definitions: [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-3/Lecture3.4-Conditional-Implicit-Definitions.pdf) [quiz](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-3/Lecture3.4-Conditional-Implicit-Definitions-Quiz.pdf)
+- Lecture 3.5 - Implicit Conversions: [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-3/Lecture3.5-Implicit-Conversions.pdf) [quiz](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-3/Lecture3.5-Implicit-Conversions-Quiz.pdf)
 - Programming Assignment - JSON Codecs: [code]()
 
 ### Week 4 - Functions and State
