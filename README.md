@@ -34,7 +34,7 @@
 - Lecture 3.3 - Type Classes: [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-3/Lecture3.3-Type-Classes.pdf)
 - Lecture 3.4 - Conditional Implicit Definitions: [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-3/Lecture3.4-Conditional-Implicit-Definitions.pdf) [quiz](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-3/Lecture3.4-Conditional-Implicit-Definitions-Quiz.pdf)
 - Lecture 3.5 - Implicit Conversions: [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-3/Lecture3.5-Implicit-Conversions.pdf) [quiz](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-3/Lecture3.5-Implicit-Conversions-Quiz.pdf)
-- Programming Assignment - JSON Codecs: [code]()
+- Programming Assignment - JSON Codecs: [code](https://github.com/mariasintea/Functional-Program-Design-in-Scala/tree/main/week-3/JSON%20Codecs/codecs/src)
 
 ### Week 4 - Functions and State
 - Lecture 4.1 - Functions and State: [slides]() [notes]()
