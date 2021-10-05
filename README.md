@@ -37,9 +37,9 @@
 - Programming Assignment - JSON Codecs: [code](https://github.com/mariasintea/Functional-Program-Design-in-Scala/tree/main/week-3/JSON%20Codecs/codecs/src)
 
 ### Week 4 - Functions and State
-- Lecture 4.1 - Functions and State: [slides]() [notes]()
-- Lecture 4.2 - Identity and Change: [slides]() [notes]()
-- Lecture 4.3 - Loops: [slides]() [notes]()
+- Lecture 4.1 - Functions and State: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-4/Lecture4.1-Functions-and-State.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-4/Lecture4.1-Functions-and-State-Notes.pdf)
+- Lecture 4.2 - Identity and Change: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-4/Lecture4.2-Identity-and-Change.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-4/Lecture4.2-Identity-and-Change-Notes.pdf)
+- Lecture 4.3 - Loops: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-4/Lecture4.3-Loops.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-4/Lecture4.3-Loops-Notes.pdf)
 - Lecture 4.4 - Extended Example: Discrete Event Simulation: [slides]() [notes]()
 - Lecture 4.5 - Discrete Event Simulation: API and Usage: [slides]() [notes]()
 - Lecture 4.6 - Discrete Event Simulation: Implementation and Test: [slides]() [notes]() [code]()
