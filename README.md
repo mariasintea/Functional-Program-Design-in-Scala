@@ -40,12 +40,12 @@
 - Lecture 4.1 - Functions and State: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-4/Lecture4.1-Functions-and-State.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-4/Lecture4.1-Functions-and-State-Notes.pdf)
 - Lecture 4.2 - Identity and Change: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-4/Lecture4.2-Identity-and-Change.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-4/Lecture4.2-Identity-and-Change-Notes.pdf)
 - Lecture 4.3 - Loops: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-4/Lecture4.3-Loops.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-4/Lecture4.3-Loops-Notes.pdf)
-- Lecture 4.4 - Extended Example: Discrete Event Simulation: [slides]() [notes]()
-- Lecture 4.5 - Discrete Event Simulation: API and Usage: [slides]() [notes]()
-- Lecture 4.6 - Discrete Event Simulation: Implementation and Test: [slides]() [notes]() [code]()
+- Lecture 4.4 - Extended Example: Discrete Event Simulation: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-4/Lecture4.4-Extended-Example-Discrete-Event-Simulation.pdf)
+- Lecture 4.5 - Discrete Event Simulation: API and Usage: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-4/Lecture4.5-Discrete-Event-Simulation-API-and-Usage.pdf)
+- Lecture 4.6 - Discrete Event Simulation: Implementation and Test: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-4/Lecture4.6-Discrete-Event-Simulation-Implementation-and-Test.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-4/Lectures4.4-4.6-Discrete-Event-Simulation-Notes.pdf) [code](https://github.com/mariasintea/Functional-Program-Design-in-Scala/tree/main/week-4/DiscreteEventSimulation/src/)
 
 ### Week 5 - Timely Effects
-- Lecture 5.1 - Imperative Event Handling: The Observer Pattern: [slides]() [notes]()
-- Lecture 5.2 - Functional Reactive Programming: [slides]() [notes]()
-- Lecture 5.3 - A Simple FRP Implementation: [slides]() [code]()
+- Lecture 5.1 - Imperative Event Handling: The Observer Pattern: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-5/Lecture5.1-Imperative-Reactive-Programming.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-5/Lecture5.1-Imperative-Reactive-Programming-Notes.pdf)
+- Lecture 5.2 - Functional Reactive Programming: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-5/Lecture5.2-Functional-Reactive-Programming.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-5/Lecture5.2-Functional-Reactive-Programming-Notes.pdf)
+- Lecture 5.3 - A Simple FRP Implementation: [slides](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-5/Lecture5.3-A-Simple-FRP-Implementation.pdf) [notes](https://github.com/mariasintea/Functional-Program-Design-in-Scala/blob/main/week-5/Lecture5.3-A-Simple-FRP-Implementation-Notes.pdf)
 - Programming Assignment- Calculator: [code]()
