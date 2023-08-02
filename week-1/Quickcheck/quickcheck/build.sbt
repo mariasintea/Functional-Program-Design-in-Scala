@@ -1,9 +1,9 @@
 course := "progfun2"
 assignment := "quickcheck"
 
-scalaVersion := "2.13.5"
+scalaVersion := "3.3.0"
 scalacOptions ++= Seq("-language:implicitConversions", "-deprecation")
-libraryDependencies += "org.scalameta" %% "munit" % "0.7.22" % Test
-libraryDependencies += "org.scalacheck" %% "scalacheck" % "1.14.0"
-
-testFrameworks += new TestFramework("munit.Framework")
+libraryDependencies ++= Seq(
+  "org.scalameta" %% "munit" % "0.7.26" % Test,
+  "org.scalacheck" %% "scalacheck" % "1.15.4"
+)
