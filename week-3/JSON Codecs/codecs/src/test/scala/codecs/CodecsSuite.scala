@@ -9,29 +9,26 @@ class CodecsSuite
     with EncoderInstances with TestEncoders
     with DecoderInstances with TestDecoders
     with PersonCodecs
-    with ContactsCodecs {
+    with ContactsCodecs:
 
-  def checkProperty(prop: Prop): Unit = {
+  def checkProperty(prop: Prop): Unit =
     val result = scalacheck.Test.check(scalacheck.Test.Parameters.default, prop)
     def fail(labels: Set[String], fallback: String): Nothing =
-      if (labels.isEmpty) throw new AssertionError(fallback)
-      else throw new AssertionError(labels.mkString(". "))
-    result.status match {
+      if labels.isEmpty then throw AssertionError(fallback)
+      else throw AssertionError(labels.mkString(". "))
+    result.status match
       case scalacheck.Test.Passed | _: scalacheck.Test.Proved => ()
       case scalacheck.Test.Failed(_, labels)                  => fail(labels, "A property failed.")
       case scalacheck.Test.PropException(_, e, labels)        => fail(labels, s"An exception was thrown during property evaluation: $e.")
       case scalacheck.Test.Exhausted                          => fail(Set.empty, "Unable to generate data.")
-    }
-  }
 
   /**
     * Check that a value of an arbitrary type `A` can be encoded and then successfully
     * decoded with the given pair of encoder and decoder.
     */
-  def encodeAndThenDecodeProp[A](a: A)(implicit encA: Encoder[A], decA: Decoder[A]): Prop = {
+  def encodeAndThenDecodeProp[A](a: A)(using encA: Encoder[A], decA: Decoder[A]): Prop =
     val maybeDecoded = decA.decode(encA.encode(a))
     maybeDecoded.contains(a) :| s"Encoded value '$a' was not successfully decoded. Got '$maybeDecoded'."
-  }
 
   test("it is possible to encode and decode the 'Unit' value (0pts)") {
     checkProperty(Prop.forAll((unit: Unit) => encodeAndThenDecodeProp(unit)))
@@ -99,22 +96,16 @@ class CodecsSuite
     checkProperty(Prop.forAll(peopleGenerator)(people => encodeAndThenDecodeProp(Contacts(people))))
   }
 
-}
 
 trait TestEncoders extends EncoderFallbackInstance
 
-trait EncoderFallbackInstance {
+trait EncoderFallbackInstance:
+  given encoderSentinel[A]: Encoder[A] =
+    throw AssertionError(s"No given encoder could be found")
 
-  implicit def encoderSentinel[A]: Encoder[A] =
-    throw new AssertionError(s"No implicit encoder could be found")
-
-}
 
 trait TestDecoders extends DecoderFallbackInstance
 
-trait DecoderFallbackInstance {
-
-  implicit def decoderSentinel[A]: Decoder[A] =
-    throw new AssertionError(s"No implicit decoder could be found")
-
-}
+trait DecoderFallbackInstance:
+  given decoderSentinel[A]: Decoder[A] =
+    throw AssertionError(s"No given decoder could be found")

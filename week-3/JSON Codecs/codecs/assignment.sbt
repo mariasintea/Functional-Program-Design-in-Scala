@@ -1,11 +1,13 @@
 // Student tasks (i.e. submit, packageSubmission)
 enablePlugins(StudentTasks)
 
+assignmentVersion.withRank(KeyRanks.Invisible) := "72f17037"
+
 
 courseraId := ch.epfl.lamp.CourseraId(
-  courseId = "L2m71l_lEeuvMwonUj6j8w",
+  courseId = "authoringBranch~Cb9_UZHyEeup-AoS2h03mQ",
   key = "TeYSTHt1Sem4yoNUsUDeVg",
-  itemId = "trAM2",
-  premiumItemId = Some("qY009"),
+  itemId = "gMpcO",
+  premiumItemId = Some("7GvmT"),
   partId = "Q8Agw"
 )
